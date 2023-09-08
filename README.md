@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/sazidur rahman mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazidur rahman mahin" height="30" width="40" /></a>
 <a href="https://fb.com/sazidurrahmanmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sazidurrahmanmahin" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Sazid1414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sazid263" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sazid1414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sazid1414/" height="30" width="40" /></a>
+<a href="https://leetcode.com/sazid1414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sazid1414/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
